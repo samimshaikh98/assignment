@@ -1,0 +1,364 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "e99d904d-edae-4ff9-b170-27b89f0fcc24",
+   "metadata": {},
+   "source": [
+    "29 th jan assignment"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6d6ddef0-cba2-43d0-9a37-30f8fd0859fe",
+   "metadata": {},
+   "source": [
+    "1. Who developed Python Programming Language?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a5acfc01-3517-4632-abb1-9bef0ebbd528",
+   "metadata": {},
+   "source": [
+    "ANS:: Guido van Rossum developed the Python programming language."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1a6e9538-58e4-4f5a-916d-3d0bccf00f72",
+   "metadata": {},
+   "source": [
+    "2. Which type of Programming does Python support?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a32ecdf8-b309-42f3-a2ad-36a8382391e6",
+   "metadata": {},
+   "source": [
+    "ANS:- Python supports multiple programming paradigms including procedural, object-oriented, and functional programming."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fdf833e5-938a-4609-8988-9dcf6a76c377",
+   "metadata": {},
+   "source": [
+    "3. Is Python case sensitive when dealing with identifiers?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e1f53b27-3754-450e-9759-ba63187736ce",
+   "metadata": {},
+   "source": [
+    "ANS::-Yes, Python is case sensitive when dealing with identifiers (such as variable names, function names, etc.). For example, \"myVariable\" and \"myvariable\" are considered as two different identifiers in Python."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "74cd5734-0099-4988-8046-d2a6a310cb17",
+   "metadata": {},
+   "source": [
+    "4. What is the correct extension of the Python file?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fd1ff723-8c80-42b8-9b88-b1f60f168eb0",
+   "metadata": {},
+   "source": [
+    "ANS:- The correct extension for a Python file is \".py\".\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "366f59c0-22a1-4079-aa48-92da0944ce5f",
+   "metadata": {},
+   "source": [
+    "5. Is Python code compiled or interpreted?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "afd5ac7d-eb8d-4943-bd5f-cf36ed043458",
+   "metadata": {},
+   "source": [
+    "ANS:-Python code is interpreted, not compiled. The Python interpreter reads and executes the code line by line at runtime."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "80608cf2-0a49-4e73-a8c2-c19d48e17c71",
+   "metadata": {},
+   "source": [
+    "6. Name a few blocks of code used to define in Python language?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0502b212-6fe1-41e1-b53e-7ca9503c8fd7",
+   "metadata": {},
+   "source": [
+    "ANS::-In Python, the following blocks of code can be used to define code structures:\n",
+    "\n",
+    "    1. Functions (def)\n",
+    "    2. Classes (class)\n",
+    "    3. Conditional statements (if, elif, else)\n",
+    "    4. Loops (for, while)\n",
+    "    5. Try-except blocks (try, except)\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "237abc0a-7ef8-4595-a73a-5537f3af8834",
+   "metadata": {},
+   "source": [
+    "7. State a character used to give single-line comments in Python?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b37d9c02-341a-4600-896f-b5ba38b710b1",
+   "metadata": {},
+   "source": [
+    "ANS::- In Python, the hash symbol (#) is used to give single-line comments. For example:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dd9599ae-124d-4816-aca8-a8d1fd866c3c",
+   "metadata": {},
+   "source": [
+    "8. Mention functions which can help us to find the version of python that we are currently working on?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5d8e97c7-c6a0-4b20-a3e5-3950d6758320",
+   "metadata": {},
+   "source": [
+    "ANS::- In Python, the following functions can be used to find the version of Python that you are currently working on:\n",
+    "\n",
+    "    1.sys.version\n",
+    "    2.sys.version_info\n",
+    "    3.platform.python_version()\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a3281e8c-0524-43a6-9cf6-d97551b4a31b",
+   "metadata": {},
+   "source": [
+    "9. Python supports the creation of anonymous functions at runtime, using a construct called\n",
+    "\n",
+    " \n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a24d7754-d789-44ad-bd1e-aee96c5c6a37",
+   "metadata": {},
+   "source": [
+    "ANS::- In Python, anonymous functions at runtime can be created using the lambda construct. The lambda function is a small anonymous function that can take any number of arguments but can only have one expression. The expression is executed and returned when the function is called."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6d47b54e-bc2d-425f-b357-030dc732f997",
+   "metadata": {},
+   "source": [
+    "10. What does pip stand for python?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "854995e6-61c1-41aa-b43c-7fda1c1e9a53",
+   "metadata": {},
+   "source": [
+    "ANS::- \"pip\" stands for \"Pip Installs Packages\" in Python. It is a package manager for Python packages, or modules, that helps you install, upgrade, and remove packages easily and efficiently.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "95a0febf-6a38-42f5-bbf9-c1555adf2695",
+   "metadata": {},
+   "source": [
+    "11. Mention a few built-in functions in python?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a092edc4-adc2-489a-90f9-01e7248804cb",
+   "metadata": {},
+   "source": [
+    "ANS::- Here are a few built-in functions in Python:\n",
+    "\n",
+    "    print()\n",
+    "    len()\n",
+    "    type()\n",
+    "    int()\n",
+    "    float()\n",
+    "    str()\n",
+    "    list()\n",
+    "    tuple()\n",
+    "    dict()\n",
+    "    set()\n",
+    "    sum()\n",
+    "    max()\n",
+    "    min()\n",
+    "    sorted()\n",
+    "    abs()\n",
+    "    round()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "825be859-0d22-446f-a3cc-258f60303209",
+   "metadata": {},
+   "source": [
+    "12. What is the maximum possible length of an identifier in Python?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "15d8bf58-b76c-496f-b962-9cc29d1c1e2f",
+   "metadata": {},
+   "source": [
+    "ANS::- There is no strict limit to the length of an identifier in Python. An identifier can be of any length, as long as it's not greater than the maximum size of memory allocated to the Python process. However, it is good practice to keep identifier names short and descriptive, to make the code more readable."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b2af53a4-c7df-4b88-abf8-831292dc0e7e",
+   "metadata": {},
+   "source": [
+    "13. What are the benefits of using Python?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c992553f-b2cc-49e4-ad5f-088387702a6e",
+   "metadata": {},
+   "source": [
+    "ANS::- Here are a few benefits of using Python:\n",
+    "\n",
+    "    1.Easy to Learn: Python has a simple and intuitive syntax, making it easy to learn and understand, especially for beginners.\n",
+    "\n",
+    "    2.Versatile: Python can be used for a wide range of tasks, such as web development, data analysis, artificial intelligence, scientific computing, and more.\n",
+    "\n",
+    "   3. Large Community: Python has a large and active community, which provides support and resources for developers.\n",
+    "\n",
+    "   4. Large Standard Library: Python has a vast standard library, which includes modules for many common programming tasks, reducing the amount of code that needs to be written from scratch."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dfd058af-8103-4e5e-9b86-81e21435a8c1",
+   "metadata": {},
+   "source": [
+    "14. How is memory managed in Python?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c9a6b22a-c3d4-40a3-b8b3-980d9e5fb42d",
+   "metadata": {},
+   "source": [
+    "ANS::- Memory management in Python is handled automatically by the Python memory manager, which is a component of the Python runtime system. The memory manager is responsible for allocating and deallocating memory for Python objects and data structures.\n",
+    "\n",
+    "Python uses a dynamic type system and reference counting to manage memory. When an object is created, its reference count is set to 1. Every time another reference to the same object is created, its reference count is incremented. When the reference count reaches 0, the memory occupied by the object is automatically deallocated.\n",
+    "\n",
+    "Additionally, Python also uses a garbage collector, which periodically checks for objects that are no longer reachable by the program and frees the memory occupied by them.\n",
+    "\n",
+    "In summary, Python's memory management makes it easier for developers to focus on writing code, without worrying about memory management and memory leaks."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3aad8e4b-fb16-444d-97f8-ef3eec92a9f5",
+   "metadata": {},
+   "source": [
+    "15. How to install Python on Windows and set path variables?\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6aff6a3f-82fb-4729-a280-1156578a2f86",
+   "metadata": {},
+   "source": [
+    "ANS::-o install Python on Windows and set path variables, follow these steps:\n",
+    "\n",
+    "    Download the Python installer: Go to the official Python website  and download the latest version of Python for Windows.\n",
+    "\n",
+    "    Run the installer: Double-click the installer file that you just downloaded and follow the instructions to install Python on your computer.\n",
+    "\n",
+    "    Add Python to the PATH environment variable:\n",
+    "        Open the Start menu, and search for \"Environment Variables\".\n",
+    "        Click on \"Edit the system environment variables\".\n",
+    "        Click on the \"Environment Variables\" button.\n",
+    "        Under \"System Variables\", scroll down and find the \"Path\" variable, then click on \"Edit\".\n",
+    "        Click on \"New\" and add the path to the Python installation directory, which is typically \"C:\\PythonXX\", where XX is the version number.\n",
+    "        Click \"OK\" to close all windows and save the changes.\n",
+    "\n",
+    "    Verify the installation:\n",
+    "        Open the Command Prompt.\n",
+    "        Type \"python\" and press Enter.\n",
+    "        If Python is installed correctly, you should see the Python prompt, which looks like this: \">>>\".\n",
+    "        Type \"exit()\" to exit the Python prompt.\n",
+    "\n",
+    "After following these steps, Python should be installed on your computer, and the PATH environment variable should be set, so you can run Python from anywhere on your computer"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "19a69b96-8f4a-4c62-b3cc-f6b8c403cfd9",
+   "metadata": {},
+   "source": [
+    "16.Is indentation required in python?\n",
+    "\n",
+    " \n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6fe0c14a-ee44-40df-b272-1d7877135b0f",
+   "metadata": {},
+   "source": [
+    "ANS::- Yes, indentation is required in Python. Indentation is used to define the structure and organization of the code. It is used to indicate the level of nesting of code blocks, such as loops and conditional statements."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d724956c-a335-4f1c-984d-cd0c31a801eb",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
